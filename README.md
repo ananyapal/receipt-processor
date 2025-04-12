@@ -2,7 +2,7 @@ Fetch Rewards Receipt Processor Challenge
 
 This project is a simple Flask-based web API that processes shopping receipts and calculates reward points based on a set of rules.
 
-It was created as a solution to the Fetch Rewards Receipt Processor Challenge.
+It was created as a solution to the Fetch Rewards Receipt Processor Challenge - https://github.com/fetch-rewards/receipt-processor-challenge
 
 Features:
 
